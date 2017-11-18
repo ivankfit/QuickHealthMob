@@ -1,0 +1,115 @@
+
+<resources>
+    
+    <string name="app_name">QuickHealthMob</string>
+    <string name="selected">Show no. of selected</string>
+    <string-array name="regions_array">
+        <item>Central</item>
+        <item>Eastern</item>
+        <item>Western</item>
+        <item>Northern</item>
+        <item>Southern</item>
+        
+    </string-array>  
+     <string-array name="central_array">
+        <item>Mulago Hospital</item>
+        <item>Nakaselo Hospital</item>
+        <item>Kampala International</item>
+        <item>Nakawa Hospital</item>
+        <item>Burenga Hospital</item>
+        <item>Nsambya Hospital</item>
+        <item >Royal Kings Hospital</item>
+        <item >Bugolobi Hospital</item>
+        <item>Nagulu Hospital</item>
+    </string-array>
+    
+       <string-array name="westerns_array">
+        <item>MRRH</item>
+        <item>Mayanja Hospital</item>
+        <item>Mbarara Referal Hospital</item>
+        <item>Divine Mercy Clinic</item>
+        <item>Kihihi HealthCenter IV</item>
+        <item >Modern HealthClinic</item>
+        <item>K FitInternational Hospital</item>
+        <item>St Joseph Clinic</item>
+        <item >Ruhalo Health CenterIV</item>
+    </string-array>
+     <string-array name="southern_array">
+        <item>Mbuyango Hospital</item>
+        <item>Mayanja Hospital</item>
+        <item> CrestHill Hospital</item>
+        <item>Divine Mercy Clinic</item>
+        <item>Kihihi HealthCenter IV</item>
+        <item >Modern HealthClinic</item>
+        <item>K FitInternational Hospital</item>
+        <item>St Joseph Clinic</item>
+        </string-array>
+    <string-array name="Eastern_array">
+        <item>Rakai Hospital</item>
+        <item >Foi International Hospital</item>
+        <item >MHGGG Hospital</item>
+        <item >Mpiki health Center</item>
+         <item>Kampala International</item>
+        <item>Nakawa Hospital</item>
+        <item>Burenga Hospital</item>
+        <item>Nsambya Hospital</item>
+        <item >Royal Kings Hospital</item>
+        <item >Bugolobi Hospital</item>
+        <item>Nagulu Hospital</item>
+    </string-array>
+    <string-array name="Northern_array">
+        <item >WestNile Hospital</item>
+        <item >Apack International Hospital </item>
+         <item>Mbarara Referal Hospital</item>
+        <item>Divine Mercy Clinic</item>
+        <item>Kihihi HealthCenter IV</item>
+        <item >Modern HealthClinic</item>
+        <item>K FitInternational Hospital</item>
+        <item>St Joseph Clinic</item>
+        <item >Ruhalo Health CenterIV</item>
+    </string-array>
+    <string-array name="westerndistricts_array">
+        <item>Mbarara District</item>
+        <item >Ntungamo District</item>
+        <item >Rukungiri District</item>
+        <item >Kanungu District</item>
+        <item >Bushenyi District</item>
+        <item >Kisoro District</item>
+        <item >Kabale District</item>
+        <item >Kasese District</item>
+        <item >Kabalore District</item>
+        <item >Mubende District</item>
+        <item >Shemaa District</item>
+    </string-array>
+    <string-array name="centraldistricts_array">
+        <item>Kampala City</item>
+        <item >Masaka district</item>
+        <item >Rakai District</item>
+        <item >Mpinji District</item>
+        <item >Hoima District</item>
+        <item >Wakiso District</item>
+        <item >Jinja District</item>
+    </string-array>
+    <string-array name="northendistricts_array">
+        <item >Karamoja District</item>
+        <item >Arua District</item>
+        <item >WestNile Region</item>
+        <item >Packwatchi District</item>
+        <item >Nakapilipiliti Region</item>
+        <item >Nakasongola Area</item>
+        <item>Arapai District</item>
+    </string-array>
+    <string-array name="easterndistricts_array">
+        <item >Soroti District</item>
+        <item >Bugiri District</item>
+        <item>Kibale District</item>
+        <item >Mbale District</item>
+        <item >Masindi District</item>
+    </string-array>
+    <string-array name="southerndistrict_array">
+        <item >Kiboga District</item>
+        <item >Kyakwanzi District</item>
+        <item >Bunyoro Region</item>
+        <item >Kazo District</item>
+    </string-array>
+</resources>

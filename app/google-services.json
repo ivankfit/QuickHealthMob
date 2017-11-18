@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1048811552831",
+    "firebase_url": "https://quickhealthmob.firebaseio.com",
+    "project_id": "quickhealthmob",
+    "storage_bucket": "quickhealthmob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048811552831:android:14cd32a83858a401",
+        "android_client_info": {
+          "package_name": "com.example.quickhealthmob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048811552831-v3c2dm08tlrcpdiveel33nn3q4gds0r9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quickhealthmob",
+            "certificate_hash": "c4d7c084fc584c66a07f1701633f19d809b663f8"
+          }
+        },
+        {
+          "client_id": "1048811552831-akbilig99u6l5bfuujvbbal4u7cd3vqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcWCdKTROF8XtJuc0kjemASgK2GIc2QCM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048811552831-akbilig99u6l5bfuujvbbal4u7cd3vqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

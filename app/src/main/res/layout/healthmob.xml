@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00ff0f"
+    android:orientation="vertical" >
+<LinearLayout 
+    android:layout_height="wrap_content"
+    android:layout_width="fill_parent"
+    android:orientation="horizontal"
+    android:layout_marginBottom="35px"
+    >
+    <LinearLayout 
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:orientation="vertical"
+    
+    >
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="QuickHealthMob"
+            android:layout_marginLeft="70px"
+            android:textColor="#000fff"
+            android:textSize="20px"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <ImageView
+        android:id="@+id/btn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+     
+        android:src="@drawable/hospital" />
+
+    <TextView
+        
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+      android:paddingLeft="40px"
+        android:textSize="10px"
+        android:text="Hospital" 
+  />
+    </LinearLayout>
+   <LinearLayout 
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:orientation="vertical"
+    android:paddingRight="20px"
+    android:layout_marginTop="20px"
+    
+    >
+    <ImageView
+        android:id="@+id/btn2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+    
+        android:src="@drawable/images" />
+
+    <TextView
+        android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+      android:paddingLeft="15px"
+        android:textSize="10px"
+        android:text="Ambulance" />
+    </LinearLayout>
+    </LinearLayout>
+<LinearLayout 
+    android:layout_height="wrap_content"
+    android:layout_width="fill_parent"
+    android:orientation="horizontal"
+    android:layout_marginTop="10px"
+    
+    >
+    <LinearLayout 
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginRight="10px"
+    >
+    <ImageView
+        android:id="@+id/btn3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:src="@drawable/location" />
+
+    <TextView
+        android:id="@+id/textView3"
+         android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+      android:paddingLeft="60px"
+        android:textSize="10px"
+        android:text="Location" />
+    </LinearLayout>
+    <LinearLayout 
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginLeft="10px"
+   
+    >
+
+    <ImageButton
+        android:id="@+id/btn4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+  
+        android:src="@drawable/admin" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        android:paddingLeft="50px"
+        android:textSize="10px"
+        android:text="Admin" />
+    </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

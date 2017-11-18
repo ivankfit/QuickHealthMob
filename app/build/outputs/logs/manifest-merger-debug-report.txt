@@ -1,0 +1,426 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:1:1-83:12
+INJECTED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:1:1-83:12
+INJECTED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:1:1-83:12
+INJECTED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:1:1-83:12
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\9a6097049daa8319b00e336c5fff14c2\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-database:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-database-11.0.4.aar\b2b83c11577c43c68e29e960cba949a4\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\83821e5132a79e8479c0a0178fec71bd\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\37c87407aea80bf55713c541bb1fa359\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.0.4.aar\63e182883ff12fde5df6efd8245e2342\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\b8ac960933c3e977eb31aba902967b67\AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\ab26ff81b22eb3d1a02e8a741452c170\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\55a5aed40b3e61e3584f76e337ad3248\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\4efb4472c7236d910cfd003fb8309f74\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\31e7fdcf91536695d1abfad56c85126c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\1f0b9e699a291a05038cefbfae6695f7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\682197c393c54c2da355261cf907d771\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\0b54bdddac1df0d373bda71f84347838\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\5c9f692ba62959ac75666f6fd0354107\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\121e251fe7482cf5a2dff08d559a0762\AndroidManifest.xml:17:1-31:12
+INJECTED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:1:1-83:12
+INJECTED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:1:1-83:12
+INJECTED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:1:1-83:12
+	package
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:2:5-41
+		INJECTED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml
+		INJECTED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml
+		INJECTED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml
+		INJECTED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\9a6097049daa8319b00e336c5fff14c2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\9a6097049daa8319b00e336c5fff14c2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-database-11.0.4.aar\b2b83c11577c43c68e29e960cba949a4\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-database-11.0.4.aar\b2b83c11577c43c68e29e960cba949a4\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\83821e5132a79e8479c0a0178fec71bd\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\83821e5132a79e8479c0a0178fec71bd\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\37c87407aea80bf55713c541bb1fa359\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\37c87407aea80bf55713c541bb1fa359\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.0.4.aar\63e182883ff12fde5df6efd8245e2342\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.0.4.aar\63e182883ff12fde5df6efd8245e2342\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\b8ac960933c3e977eb31aba902967b67\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\b8ac960933c3e977eb31aba902967b67\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\ab26ff81b22eb3d1a02e8a741452c170\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\ab26ff81b22eb3d1a02e8a741452c170\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\55a5aed40b3e61e3584f76e337ad3248\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\55a5aed40b3e61e3584f76e337ad3248\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\4efb4472c7236d910cfd003fb8309f74\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\4efb4472c7236d910cfd003fb8309f74\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\31e7fdcf91536695d1abfad56c85126c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\31e7fdcf91536695d1abfad56c85126c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\1f0b9e699a291a05038cefbfae6695f7\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\1f0b9e699a291a05038cefbfae6695f7\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\682197c393c54c2da355261cf907d771\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\682197c393c54c2da355261cf907d771\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\0b54bdddac1df0d373bda71f84347838\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\0b54bdddac1df0d373bda71f84347838\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\5c9f692ba62959ac75666f6fd0354107\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\5c9f692ba62959ac75666f6fd0354107\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\121e251fe7482cf5a2dff08d559a0762\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\121e251fe7482cf5a2dff08d559a0762\AndroidManifest.xml:21:5-23:58
+INJECTED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:6:5-8:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\31e7fdcf91536695d1abfad56c85126c\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml
+		INJECTED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:7:9-35
+		INJECTED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml
+		INJECTED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:10:5-69
+	android:name
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:10:22-66
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:11:5-72
+	android:name
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:11:22-69
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:12:5-70
+	android:name
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:12:22-67
+uses-permission#android.permission.SEND_SMS
+ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.READ_SMS
+ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.WRITE_SMS
+ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:15:22-65
+application
+ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:16:5-81:19
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\9a6097049daa8319b00e336c5fff14c2\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\9a6097049daa8319b00e336c5fff14c2\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\83821e5132a79e8479c0a0178fec71bd\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\83821e5132a79e8479c0a0178fec71bd\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\37c87407aea80bf55713c541bb1fa359\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\37c87407aea80bf55713c541bb1fa359\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\b8ac960933c3e977eb31aba902967b67\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\b8ac960933c3e977eb31aba902967b67\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\ab26ff81b22eb3d1a02e8a741452c170\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\ab26ff81b22eb3d1a02e8a741452c170\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\55a5aed40b3e61e3584f76e337ad3248\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\55a5aed40b3e61e3584f76e337ad3248\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\4efb4472c7236d910cfd003fb8309f74\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\4efb4472c7236d910cfd003fb8309f74\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\31e7fdcf91536695d1abfad56c85126c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\31e7fdcf91536695d1abfad56c85126c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\1f0b9e699a291a05038cefbfae6695f7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\1f0b9e699a291a05038cefbfae6695f7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\682197c393c54c2da355261cf907d771\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\682197c393c54c2da355261cf907d771\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\0b54bdddac1df0d373bda71f84347838\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\0b54bdddac1df0d373bda71f84347838\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\5c9f692ba62959ac75666f6fd0354107\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\5c9f692ba62959ac75666f6fd0354107\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\121e251fe7482cf5a2dff08d559a0762\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\121e251fe7482cf5a2dff08d559a0762\AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:19:9-41
+	android:icon
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:18:9-45
+	android:allowBackup
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:20:9-40
+activity#com.example.quickhealthmob.MyHealthApp
+ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:21:9-29:24
+	android:label
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:23:13-43
+	android:name
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:22:13-40
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.example.quickhealthmob.HealthList
+ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:30:13-32:51
+	android:label
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:32:17-49
+	android:name
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:31:17-43
+activity#com.example.quickhealthmob.AdminLogin
+ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:35:14-36:41
+	android:name
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:36:13-39
+activity#com.example.quickhealthmob.MainActivity
+ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:41:13-42:47
+	android:name
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:42:17-45
+activity#com.example.quickhealthmob.WesternHospitals
+ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:43:13-45:51
+	android:label
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:45:17-49
+	android:name
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:44:17-49
+activity#com.example.quickhealthmob.CentralHospitals
+ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:46:13-48:51
+	android:label
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:48:17-49
+	android:name
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:47:17-49
+activity#com.example.quickhealthmob.NothernHospital
+ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:49:14-51:51
+	android:label
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:51:17-49
+	android:name
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:50:17-48
+activity#com.example.quickhealthmob.EasternHospitals
+ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:52:15-54:51
+	android:label
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:54:17-49
+	android:name
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:53:17-49
+activity#com.example.quickhealthmob.SouthernHospitals
+ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:55:17-57:51
+	android:label
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:57:17-49
+	android:name
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:56:17-50
+activity#com.example.quickhealthmob.WesternDistricts
+ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:58:16-60:51
+	android:label
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:60:17-49
+	android:name
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:59:17-49
+activity#com.example.quickhealthmob.CentralDistricts
+ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:61:17-63:51
+	android:label
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:63:17-49
+	android:name
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:62:17-49
+activity#com.example.quickhealthmob.NothernDistricts
+ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:64:17-66:51
+	android:label
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:66:17-49
+	android:name
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:65:17-49
+activity#com.example.quickhealthmob.EasternDistricts
+ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:67:17-69:51
+	android:label
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:69:17-49
+	android:name
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:68:17-49
+activity#com.example.quickhealthmob.SouthernDistricts
+ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:70:17-72:51
+	android:label
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:72:17-49
+	android:name
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:71:17-50
+service#com.example.quickhealthmob.MyService
+ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:80:9-44
+	android:name
+		ADDED from E:\QuickHealthMob\app\src\main\AndroidManifest.xml:80:18-42
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\b8ac960933c3e977eb31aba902967b67\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\b8ac960933c3e977eb31aba902967b67\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:20:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\b8ac960933c3e977eb31aba902967b67\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\b8ac960933c3e977eb31aba902967b67\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\b8ac960933c3e977eb31aba902967b67\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\b8ac960933c3e977eb31aba902967b67\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\b8ac960933c3e977eb31aba902967b67\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\b8ac960933c3e977eb31aba902967b67\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\b8ac960933c3e977eb31aba902967b67\AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\b8ac960933c3e977eb31aba902967b67\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\4df3ed2e1981f2f959b83552a87d6e16\AndroidManifest.xml:33:16-90
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\37c87407aea80bf55713c541bb1fa359\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\37c87407aea80bf55713c541bb1fa359\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\37c87407aea80bf55713c541bb1fa359\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\37c87407aea80bf55713c541bb1fa359\AndroidManifest.xml:19:19-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:24:17-71
+permission#com.example.quickhealthmob.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:26:22-76
+uses-permission#com.example.quickhealthmob.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:31:13-34:29
+intent-filter#com.example.quickhealthmob+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:33:27-58
+category#com.example.quickhealthmob
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\df37bfd1b8b80998ae05eed02af6dc04\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\ab26ff81b22eb3d1a02e8a741452c170\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\ab26ff81b22eb3d1a02e8a741452c170\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\ab26ff81b22eb3d1a02e8a741452c170\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\ab26ff81b22eb3d1a02e8a741452c170\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\ab26ff81b22eb3d1a02e8a741452c170\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\4efb4472c7236d910cfd003fb8309f74\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\4efb4472c7236d910cfd003fb8309f74\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\4efb4472c7236d910cfd003fb8309f74\AndroidManifest.xml:20:20-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\31e7fdcf91536695d1abfad56c85126c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\1f0b9e699a291a05038cefbfae6695f7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\1f0b9e699a291a05038cefbfae6695f7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\682197c393c54c2da355261cf907d771\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\682197c393c54c2da355261cf907d771\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\0b54bdddac1df0d373bda71f84347838\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\0b54bdddac1df0d373bda71f84347838\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\5c9f692ba62959ac75666f6fd0354107\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\5c9f692ba62959ac75666f6fd0354107\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\121e251fe7482cf5a2dff08d559a0762\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\121e251fe7482cf5a2dff08d559a0762\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\31e7fdcf91536695d1abfad56c85126c\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.0.0] C:\Users\kfit ivan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\31e7fdcf91536695d1abfad56c85126c\AndroidManifest.xml:27:13-51

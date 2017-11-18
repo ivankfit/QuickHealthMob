@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\QuickHealthMob\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6aca1bc7e6bca7332c1eba1dba4bf2ef7271e80b">
+        <dex dex="E:\QuickHealthMob\app\build\intermediates\pre-dexed\debug\instant-run_ffd6430f51421db414acf942307a24a8a2ce2fce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\softwares\sdk-current\sdk-current\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\QuickHealthMob\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_f0b76f94732fbc4fa7def44afb8356b3d9a2954d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\QuickHealthMob\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7781df98d1b8bdd0a0190539ccc548121bfefdae">
+        <dex dex="E:\QuickHealthMob\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_377af8dc67db219c3c0be4a8c13b9ff9f961a822.jar" />
+    </item>
+
+</items>

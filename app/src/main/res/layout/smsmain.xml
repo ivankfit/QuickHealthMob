@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<!--<android.support.v7.widget.Toolbar
+    android:layout_width="match_parent" app:title="EmergencyApp"
+    android:background="#ff4000"
+    app:titleTextColor="#fff" android:id="@+id/bar"
+    android:layout_height="wrap_content">
+
+</android.support.v7.widget.Toolbar>-->
+    <RelativeLayout
+        android:layout_width="match_parent" android:id="@+id/rel1"
+
+        android:layout_height="wrap_content">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:id="@+id/lin1"
+        android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/btnSendSMS"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="send SMS" />
+    <Button
+        android:id="@+id/btncall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TOLLFREECALL" />
+
+        <Button
+            android:id="@+id/buttonstart" android:text="Start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <Button
+            android:id="@+id/buttonstop" android:text="Stop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    </RelativeLayout>
+<RelativeLayout
+    android:layout_width="match_parent" android:layout_below="@+id/rel1"
+    android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+    <ListView
+        android:id="@+id/listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</RelativeLayout>
+
+
+
+</RelativeLayout>
